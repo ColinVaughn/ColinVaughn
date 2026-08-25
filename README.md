@@ -24,7 +24,7 @@ Rust and Go services, VPN infrastructure, concurrent workloads, and performance-
 </td>
 <td width="33%" valign="top">
 <strong>Full-stack products</strong><br /><br />
-Production React and Next.js applications backed by PostgreSQL, Supabase, and cloud infrastructure.
+Production React and Next.js applications backed by self-hosted PostgreSQL, Docker, AWS, and GCP.
 </td>
 </tr>
 </table>
@@ -56,7 +56,7 @@ Production React and Next.js applications backed by PostgreSQL, Supabase, and cl
 <td width="50%" valign="top">
 <h3><a href="https://a11ycore.org">04 / A11yCore</a></h3>
 <p><strong>10,000+ scans for 500+ users.</strong> A WCAG 2.2 scanning and browser-side remediation platform with a lightweight ESM plugin providing 76+ DOM accessibility features.</p>
-<p><code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Puppeteer</code></p>
+<p><code>TypeScript</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code> <code>Puppeteer</code></p>
 <a href="https://a11ycore.org"><img alt="Visit A11yCore" src="https://img.shields.io/badge/visit-a11ycore.org-2563EB?style=flat-square&logo=accessibleicon&logoColor=white" /></a>
 </td>
 </tr>
@@ -79,7 +79,7 @@ Production React and Next.js applications backed by PostgreSQL, Supabase, and cl
 ## Tools I reach for
 
 <p align="center">
-<img alt="Rust, Go, TypeScript, Java, C#, React, Next.js, Tauri, Node.js, PostgreSQL, Supabase, Docker, and Linux" src="https://skillicons.dev/icons?i=rust,go,ts,java,cs,react,nextjs,tauri,nodejs,postgres,supabase,docker,linux&perline=13&theme=dark" />
+<img alt="Rust, Go, TypeScript, Java, C#, React, Next.js, Tauri, Node.js, PostgreSQL, Docker, AWS, GCP, and Linux" src="https://skillicons.dev/icons?i=rust,go,ts,java,cs,react,nextjs,tauri,nodejs,postgres,docker,aws,gcp,linux&perline=14&theme=dark" />
 </p>
 
 ## GitHub activity
